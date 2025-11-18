@@ -143,3 +143,6 @@ Implementing BIMI, while requiring more upfront effort and cost (for trademark r
 ## Conclusion
 
 Mastering the authentication stack is paramount for any developer involved in email delivery. SPF, DKIM, DMARC, and BIMI, when correctly configured, create a robust defense against malicious actors and significantly improve the likelihood of your legitimate emails reaching the inbox. While the initial setup may seem complex, the long-term benefits in deliverability and sender trust are invaluable. Always remember to validate your configurations and deploy changes gradually, especially with DMARC.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*

@@ -86,3 +86,6 @@ It is strongly advised against using a single, undifferentiated sending queue. I
 ## Conclusion
 
 The sending engine, powered by a well-configured MTA, intelligent IP routing, careful IP warm-up, and differentiated queues, is the backbone of successful email deliverability. For developers, understanding these technical nuances is key to either building an effective in-house solution or making informed decisions when integrating with external smart host services. Ignoring these practices means risking your emails being delayed, filtered, or outright rejected, regardless of content quality.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*

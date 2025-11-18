@@ -99,3 +99,6 @@ Smart hosts are versatile and beneficial across a wide range of businesses and i
 ### Conclusion
 
 Smart hosts are an indispensable tool in the modern email landscape. By offloading the complexities of email delivery to specialized providers, businesses of all sizes and across all industries can significantly improve their email deliverability, enhance their IP reputation, ensure compliance, and ultimately, communicate more effectively with their audience.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*

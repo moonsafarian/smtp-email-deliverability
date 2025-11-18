@@ -152,3 +152,6 @@ Being added to a blacklist is a critical event requiring immediate, high-priorit
 ## Conclusion
 
 Observability in email deliverability is about understanding the health of your sending system through constant vigilance. By diligently monitoring bounce rates, actively integrating with FBLs, understanding the evolving landscape of tracking (like Apple's MPP), and keeping a close eye on blacklists and header consistency, developers can proactively identify and resolve issues. This ongoing process of measurement, analysis, and adaptation is key to securing your email's journey to the inbox.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*

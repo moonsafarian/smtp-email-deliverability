@@ -28,3 +28,6 @@ Choosing the right smart host is crucial for ensuring optimal email deliverabili
 *   **Google Workspace (formerly G Suite) SMTP Relay:** Mountain View, California, USA (Service is highly distributed globally)
 
 This list is not exhaustive, but provides a good starting point for exploring smart host options based on your needs, including geographical considerations.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*

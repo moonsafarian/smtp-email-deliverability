@@ -89,3 +89,6 @@ However, this hybrid approach still requires dedicated resources to manage the i
 *   **"Re-enveloping" is a Powerful Pattern:** Understanding how smart hosts re-authenticate your mail is key, especially in hybrid setups.
 
 The decision to build or buy should be driven by a clear understanding of an organization's core business, risk tolerance for data handling, and available technical resources. For many, a well-chosen smart host is the optimal path to robust email deliverability.
+
+---
+*Based on content provided by [TurboSMTP](https://www.serversmtp.com)*
